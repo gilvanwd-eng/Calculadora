@@ -7,3 +7,4 @@ echo "Digite o segundo número: "
 read n2
 
 echo "Soma = $((n1+n2))"
+
